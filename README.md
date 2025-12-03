@@ -2,7 +2,7 @@
 Công nghệ sử dụng: Nextjs 14 - Typescript
 ```
 # Clone repo
-git clone https://github.com/Ngocon2004/DoAn_CN
+git clone https://github.com/Ngocon2004/DoAn1
 
 # Đi đến thư mục chứa trang web
 cd DoAn_CN
